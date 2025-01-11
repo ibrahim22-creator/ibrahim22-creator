@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨📚 I'm currently learning ADVANCED JS<br>🎯 Goals: JOB IN MICROSOFT & BE A MILLIONAR<br>🎲 Fun fact: I THINK I AM FUNNY</p>
+<p align="left">✨📚 I'm currently learning ADVANCED JAVASCRIPT<br>🎯 Goals: JOB IN MICROSOFT & BE A MILLIONAR<br>🎲 Fun fact: I THINK I AM FUNNY</p>
 
 ###
 
